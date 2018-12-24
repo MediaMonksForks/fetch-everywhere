@@ -20,7 +20,7 @@
   "homepage": "https://github.com/lucasfeliciano/fetch-everywhere/issues",
   "dependencies": {
     "node-fetch": "^1.0.1",
-    "whatwg-fetch": "2.0.4"
+    "whatwg-fetch": "2.0.3"
   },
   "devDependencies": {
     "chai": "^1.10.0",
